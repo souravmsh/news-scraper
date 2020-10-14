@@ -1,5 +1,5 @@
 # News Scraper
-News scraping using the PHP CodeIgniter framework
+Scraping any web contents using the PHP CodeIgniter Framework 3
 ---------------------------------------------------
 1. Clone the repository
 2. Go to config/database.php and enter the database name.
